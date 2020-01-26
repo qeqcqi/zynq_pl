@@ -1,3 +1,4 @@
-This repository is for PL.
-+ Xilinx ZYNQ
-  - Lang. : Verilog
+# The repository for Xilinx ZYNQ PL
++ Environment 
+- IDE : Vivado
+- Lang. : Verilog
