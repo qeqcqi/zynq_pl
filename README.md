@@ -1,2 +1,3 @@
 This repository is for PL.
-- Xilinx ZYNQ
++ Xilinx ZYNQ
+  - Lang. : Verilog
